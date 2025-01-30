@@ -1,7 +1,7 @@
 How to use the program:
 1. Make an account on https://ptcgp-tracker.com/ and enter your collection.
-2. Export your collection as multiple .csv files (one for each set).
-3. Launch the program and click "Select Files" Button to upload the .csv for each collector.
+2. Export your collection as multiple .csv files (one for each set, because there is no option to download your full collection unfortunately).
+3. Launch the program and click "Select Files" Button to upload the .csv files for each collector. Multiple files can be selected.
 4. Press "Show trade!" and the program will display possible trade options for both players.
 
 Note:
